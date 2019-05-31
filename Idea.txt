@@ -1,0 +1,3 @@
+A platform that allow students to lend money and have offers by lending them money from the borrower.
+Important notes:-
+1. Connect Paytm Postpaid
